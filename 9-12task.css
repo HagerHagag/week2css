@@ -1,0 +1,55 @@
+ /* styling assignments 9-12 task 1 */
+.task1 div{
+    display: inline-block;
+    outline: 5px solid black;
+    width: 70px;
+    padding:10px;
+    margin: 14px;
+    background-color: #eee;
+    
+
+}
+.s1{
+    border: 5px solid red;
+
+}
+.s2{
+    border-style: solid;
+    border-width: 5px;
+    border-color:blue green;
+
+}
+.s3{
+ border-style: dashed;
+    border-width: 5px;
+    border-color:red green blue yellow;
+
+}
+/* styling assignments 9-12 task 2 */
+.task2{
+    width:400px;
+    background-color:#eee;
+    padding:10px;
+    margin:10px;
+    
+    
+
+}
+.element-2  {
+    visibility: hidden;
+     width:400px;
+     padding:10px;
+     margin:10px;
+}
+.element-1{
+     border-width: 0 0 0 5px;
+    border-style: solid;
+    border-color: red;
+    padding: 9px 19px;
+}
+.element-3{
+     border-width: 0 0 0 5px;
+    border-style: solid;
+     border-color:rgb(56, 158, 158);
+     padding: 9px 19px;
+}

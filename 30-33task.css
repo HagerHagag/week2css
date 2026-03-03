@@ -1,0 +1,157 @@
+body{
+    position: relative;
+}
+/* styling task1 */
+.green{
+       background-color: rgb(10, 109, 10);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 35px;
+    left: 35px;
+    z-index: 2;
+}
+.redd{
+     background-color: rgb(167, 28, 28);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 55px;
+    left: 50px;
+    z-index: 3;
+}
+.bluee{
+     background-color: rgb(47, 47, 161);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 1;
+}
+.black{
+        background-color: black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 35px;
+    left: 20px;
+}
+/* styling task2 */
+.div{
+    background-color: #eee;
+    width: 400px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid;
+    border-color: red blue;
+    position: relative;
+     top: 300px;
+}
+div>span{
+    color: #eee;
+    
+    padding: 6px;
+    text-align: center;
+    border: 6px solid;
+    border-color: red ;
+    position: relative;
+   
+    background-color: rgb(78, 78, 241);
+
+}
+.top-left{
+    position: absolute;
+    top:-10px;
+    left:-10px;
+    border-width: 0 1px 0 0;
+}
+.bottom-left{
+     position: absolute;
+    bottom:-10px;
+    left:-10px;
+     border-width: 0 1px 0 0;
+
+}
+.top-right{
+     position: absolute;
+    top:-10px;
+    right:-10px;
+     border-width: 0  0 0 1px;
+
+}
+.bottom-right{
+     position: absolute;
+    bottom:-10px;
+    right:-10px;
+     border-width: 0  0 0 1px;
+
+}
+/* styling task3 */
+.js,.html,.css{
+    background-color: #eee;
+    margin: 10px;
+    padding: 10px;
+
+
+}
+.main{
+    width: 400px;
+    margin: auto;
+    list-style: none;
+}
+ol li{
+    background-color: #f8f8f8;
+    padding: 10px;
+    margin: 10px;
+}
+.js li{
+    
+    list-style-type: circle;
+    list-style-position: inside;
+    background-color: #f8f8f8;
+    padding: 10px;
+    margin: 10px;
+
+}
+.js ul{
+    padding: 0;
+}
+
+/* styling task 4 */
+table{
+    width: 700px;
+    margin: auto;
+    border-spacing: 2px;
+    background-color: #f8f8f8;;
+    border:2px solid rgb(26, 119, 96);
+    border-width: 0 0 2px 0;
+}
+table th{
+    background-color: rgb(37, 37, 37);
+    color: #f8f8f8;
+    text-align: center;
+    padding:10px
+}
+table td{
+    padding: 10px;
+    text-align: center;
+    background-color: #eee;
+}
+img{
+    width: 40px;
+    height: 40px;
+}
+.blue{
+    background-color: rgb(76, 82, 141);
+    color: #f8f8f8;
+    padding: 6px;
+    margin: 2px;
+}
+.red{
+    background-color: rgb(190, 57, 57);
+     color: #f8f8f8;
+      padding: 6px;
+       margin: 2px;
+}
+

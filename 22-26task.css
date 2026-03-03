@@ -1,0 +1,63 @@
+  html{
+    font-size: 20px;
+  }
+  /* styling task 1 */
+  div {
+    padding: 15px;
+    border:4px solid red;
+  }
+  div>p{
+    background-color: #eee;
+    padding: inherit;
+    border: inherit;
+    text-align: center;
+  }
+   /* styling task 2 */
+  /* styling shape 1 */
+  .task2s1{
+    font-family:  "Open Sans", sans-serif ;
+    text-align: center;
+    font-style: italic;
+      font-size: 30px;
+    
+
+  }
+   /* styling shape 2 */
+  .task2s2{
+   
+    font-family: "Cairo", sans-serif ;
+    text-align: center;
+     font-size: 30px;
+  }
+   /* styling shape 3 */
+  .task2s3{
+   
+    font-family: "Jomhuria", serif ;
+    text-align: center;
+     font-size: 30px;
+
+
+  }
+   /* styling task 3 */
+    /* styling shape 1 */
+  .task3s1{
+    font-size: 2.5rem ;
+    text-align: center;
+    margin: 30px;
+  }
+   /* styling shape 2 */
+   .task3s2{
+    font-size: 2rem ;
+    text-align: center;
+    margin: 30px;
+  }
+   /* styling shape 3 */
+   .task3s3{
+    font-size: 1.5rem ;
+    text-align: center;
+    margin: 30px;
+  }
+
+  
+
+  

@@ -1,0 +1,60 @@
+/* styling task 1 */
+h1{
+    text-shadow: 1px 1px 0 red,2px 2px 0 blue , 3px 3px 0 blueviolet;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+/* styling task 2 */
+.one {
+    text-transform: uppercase;
+    text-align: center;
+}
+.two{
+    text-transform: capitalize;
+    text-align: center;
+}
+.three{
+    text-transform: lowercase;
+    text-align: center;
+}
+/* styling task3 */
+ /* shape 1 styling */
+.s1{
+    width: 400px;
+    padding :15px;
+    background-color: #eee;
+   white-space: normal;
+   margin: 10px;
+    
+}
+  /* shape 2 styling */
+.s2{
+    width: 400px;
+    padding :15px;
+    background-color: #eee;
+    margin: 10px;
+
+}
+ /* shape 3 styling */
+.s3{
+    width: 400px;
+    padding :15px;
+    background-color: #eee;
+     overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin: 10px;
+
+}
+/* styling task4 */
+a{
+     text-decoration: none;
+     background-color: rgb(59, 172, 166);
+     color: white;
+     text-transform: capitalize;
+     border : 5px solid rgb(33, 105, 102);
+     border-width: 0 0 5px 0;
+     padding: 15px;
+    letter-spacing: 1px;
+     margin: 50%;
+}
